@@ -1,5 +1,47 @@
  body {
-    margin: 50px;
+    margin: auto;
     font-family: Helvetica, sans-serif;
     font-size: 150%;
+    width: 500px;
+    background-color: cadetblue;
+}
+
+img{
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0 auto;
+}
+
+div{
+    margin: auto;
+}
+
+#dice{
+    margin: 0 auto;
+    width: 175px;
+    padding-left: 45px;
+}
+
+#button{
+    width: 175px;
+    text-align: center;
+    margin:0 auto;
+}
+
+input{
+    border-radius: 25px;
+    background: seagreen;
+    padding: 20px;
+    width: 150px;
+    height: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 25px;
+    width: 100%;
+    text-align: center;
 }
