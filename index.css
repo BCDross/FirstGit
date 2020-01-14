@@ -12,8 +12,14 @@ img{
     margin: 0 auto;
 }
 
+h1{
+    border: 5px solid lightblue;
+    text-align: center;
+}
+
 div{
     margin: auto;
+    border: 5px solid lightblue;
 }
 
 #dice{
